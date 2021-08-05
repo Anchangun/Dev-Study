@@ -7,11 +7,11 @@ Outline.
 
 그럼 이 네개의 차이는 어떤 것일까?
 
-|Difference.|
-|--size()--| Vector, List, Array List 등 Collection Type 길이 (원소 수)--|
-|--capacity()--|	Vector, List, Array List 등 Collection Type 길이 (물리적 크기)--|
-|--length--| 배열의 크기 (int, double, float...) --|
-|--length()--| 문자열의 길이 --|
+Difference.
+size() Vector, List, Array List 등 Collection Type 길이 (원소 수)
+capacity()	Vector, List, Array List 등 Collection Type 길이 (물리적 크기)
+length 배열의 크기 (int, double, float...)
+length() 문자열의 길이 
 
 크게 네가지로 볼수 있다.
 
